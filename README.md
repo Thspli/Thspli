@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=header" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Thalisson+Douglas;Estudante+de+Desenvolvimento+de+Sistemas;SENAI+Shunji+Nishmura+-+Pompeia/SP;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
@@ -40,10 +44,14 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  ![ThalissonDouglas's github stats](https://github-readme-stats.vercel.app/api?username=ThalissonDouglas&show_icons=true&theme=radical&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalissonDouglas&layout=compact&theme=radical&hide_border=true)
+  ![ThalissonDouglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalissonDouglas&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1E3A8A&text_color=FFFFFF)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalissonDouglas&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 </div>
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalisson-douglas-23273b31b)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalissondouglas86@gmail.com)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=footer" />
+</div>
