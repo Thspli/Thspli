@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Thalisson+Douglas;Estudante+de+Desenvolvimento+de+Sistemas;SENAI+Shunji+Nishmura+-+Pompeia/SP;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-# 👨‍💻 Thalisson Douglas - iDev
+<div align="center">
+  <h1>👨‍💻 Thalisson Douglas - iDev</h1>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
