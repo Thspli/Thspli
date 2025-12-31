@@ -26,27 +26,21 @@
 ## 🛠️ **FERRAMENTAS**
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-EF5B40?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
+  <img src="https://img.shields.io/badge/MySQL_Workbench-EF5B40?style=for-the-badge&logo=mysql&logoColor=white" alt="Workbench"/>
 </div>
 
 ## 📋 Sobre Mim
 - 🎓 **Estudante de Desenvolvimento de Sistemas** no **SENAI Shunji Nishmura - Pompeia/SP**
 - 💻 **Full Stack Developer**: Next.js, React, Node.js, APIs REST
 - 🎮 **Pretendo desenvolver jogos** com C# e Unity
-- ⚡ **Ferramentas**: Figma, VS Code, Visual Studio, Postman, MySQL Workbench
+- ⚡ **Ferramentas**: Figma, VS Code, Visual Studio, Postman, Workbench
 - 🗄️ Banco: MySQL, dados e dashboards
 
 ## 🚀 Projetos
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThalissonDouglas?tab=repositories)
-
-## 📊 GitHub Stats
-<div align="center">
-  ![ThalissonDouglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalissonDouglas&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1E3A8A&text_color=FFFFFF)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalissonDouglas&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
-</div>
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalisson-douglas-23273b31b)
