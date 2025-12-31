@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Thalisson+Douglas;Estudante+de+Desenvolvimento+de+Sistemas;SENAI+Shunji+Nishmura+-+Pompeia/SP;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-# 👨‍💻 Thalisson Douglas - Estudante de Desenvolvimento de Sistemas
+# 👨‍💻 Thalisson Douglas - iDev
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
@@ -30,13 +30,14 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/MySQL_Workbench-EF5B40?style=for-the-badge&logo=mysql&logoColor=white" alt="Workbench"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </div>
 
 ## 📋 Sobre Mim
 - 🎓 **Estudante de Desenvolvimento de Sistemas** no **SENAI Shunji Nishmura - Pompeia/SP**
 - 💻 **Full Stack Developer**: Next.js, React, Node.js, APIs REST
 - 🎮 **Pretendo desenvolver jogos** com C# e Unity
-- ⚡ **Ferramentas**: Figma, VS Code, Visual Studio, Postman, Workbench
+- ⚡ **Ferramentas**: Figma, VS Code, Visual Studio, Postman, Workbench, Notion
 - 🗄️ Banco: MySQL, dados e dashboards
 
 ## 🚀 Projetos
