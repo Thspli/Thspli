@@ -10,36 +10,40 @@
   <h1>👨‍💻 Thalisson Douglas - iDev</h1>
 </div>
 
+## 🛠️ **Tecnologias**
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Lua-00A2FF?style=for-the-badge&logo=luau&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
-## 📚 **ESTUDANDO**
+## 📚 Estudando
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Lua-00A2FF?style=for-the-badge&logo=luau&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Roblox_Studio-00D2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </div>
 
-## 🛠️ **FERRAMENTAS**
+## ⚙️ Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Roblox_Studio-00D2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-EF5B40?style=for-the-badge&logo=mysql&logoColor=white" alt="Workbench"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </div>
 
 ## 📋 Sobre Mim
 - 🎓 **Estudante de Desenvolvimento de Sistemas** no **SENAI Shunji Nishmura - Pompeia/SP**
 - 💻 **Full Stack Developer**: Next.js, React, Node.js, APIs REST
-- 🎮 **Pretendo desenvolver jogos** com C# e Unity
-- ⚡ **Ferramentas**: Figma, VS Code, Visual Studio, Postman, Workbench, Notion
+- 🎮 **Estudando Lua pro Roblox** + **jogos em Unity** com C#
+- ⚡ **Ferramentas**: Figma, VS Code, Visual Studio, Roblox Studio, Postman, Notion
 - 🗄️ Banco: MySQL, dados e dashboards
 
 ## 🚀 Projetos
