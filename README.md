@@ -27,7 +27,7 @@ Mood:     "Cada bug é só um puzzle por resolver."
 ## 🛠️ Arsenal — Tecnologias
 
 ### 🌐 Front-End & Mobile
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
@@ -36,14 +36,14 @@ Mood:     "Cada bug é só um puzzle por resolver."
 </div>
 
 ### ⚙️ Back-End & Dados
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ### 🎮 Game Dev (em progresso)
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Lua-00A2FF?style=for-the-badge&logo=luau&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox_Studio-00D2FF?style=for-the-badge&logo=roblox&logoColor=white" />
@@ -51,7 +51,7 @@ Mood:     "Cada bug é só um puzzle por resolver."
 </div>
 
 ### 🔧 Ferramentas
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
@@ -88,6 +88,12 @@ Mood:     "Cada bug é só um puzzle por resolver."
 <div align="center">
   <a href="https://github.com/xToguia">
     <img src="https://github-readme-stats.vercel.app/api?username=xToguia&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" height="120em"/>
+  </a>
+  <a href="https://github.com/rafinha20010">
+    <img src="https://github-readme-stats.vercel.app/api?username=rafinha20010&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" height="120em"/>
+  </a>
+  <a href="https://github.com/Leo-march">
+    <img src="https://github-readme-stats.vercel.app/api?username=Leo-march&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" height="120em"/>
   </a>
 </div>
 
