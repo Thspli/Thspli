@@ -94,6 +94,14 @@ Cada linha de código me aproxima do jogo que um dia vou lançar.
 
 ---
 
+## 💬 Citação do Dia
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=F5C400&author_color=F5C400&bg_color=0d1117&border_color=F5C400" />
+</div>
+
+---
+
 ## 📈 Atividade
 
 <div align="center">
