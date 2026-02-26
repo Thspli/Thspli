@@ -10,8 +10,6 @@
 
 ## ⚡ Sobre Mim — Who's this guy?
 
-<div align="center">
-
 ```
 Nome:     Thalisson Douglas
 Alias:    iDev
@@ -24,20 +22,18 @@ Status:   🔥 Buildando coisas
 Mood:     "Cada bug é só um puzzle por resolver."
 ```
 
-</div>
-
 ---
 
-## 🎮 Game Dev é meu foco principal
+## 🎮 Game Dev — Onde minha paixão mora
+
+Programar é meu ofício, mas **criar jogos é meu objetivo de vida.**
+Durante o dia construo sistemas Full Stack — à noite projeto mecânicas, escrevo scripts em Lua no Roblox Studio e estudo C# pra Unity.
+Cada linha de código me aproxima do jogo que um dia vou lançar.
 
 <div align="center">
-
-> *Além do Full Stack, meu grande objetivo é criar jogos — seja no Roblox com Lua ou em projetos Unity com C#.*
-> *Código limpo de dia, level design de noite.*
-
-<img src="https://img.shields.io/badge/🎯_OBJETIVO-Desenvolver%20Jogos-F5C400?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🕹️_PLATAFORMAS-Roblox%20%2B%20Unity-000000?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Roblox_Studio-scripting%20com%20Lua-00D2FF?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-jogos%20com%20C%23-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-em%20construção%20🔨-F5C400?style=for-the-badge" />
 </div>
 
 ---
@@ -105,20 +101,12 @@ Mood:     "Cada bug é só um puzzle por resolver."
 
 <div align="center">
   <a href="https://github.com/xToguia">
-    <img src="https://github.com/xToguia.png" width="80" style="border-radius:50%" />
-    <br/>
     <img src="https://img.shields.io/badge/xToguia-F5C400?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/rafinha20010">
-    <img src="https://github.com/rafinha20010.png" width="80" style="border-radius:50%" />
-    <br/>
     <img src="https://img.shields.io/badge/rafinha20010-F5C400?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Leo-march">
-    <img src="https://github.com/Leo-march.png" width="80" style="border-radius:50%" />
-    <br/>
+  <a href="https://github.com/Leo--march">
     <img src="https://img.shields.io/badge/Leo--march-F5C400?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </div>
