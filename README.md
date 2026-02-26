@@ -77,8 +77,8 @@ Cada linha de código me aproxima do jogo que um dia vou lançar.
 ## 📊 Stats — Números não mentem
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thspli&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thspli&layout=compact&theme=dark&hide_border=true&title_color=F5C400&bg_color=0d1117&text_color=ffffff&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Thspli&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thspli&layout=compact&theme=dark&hide_border=true&title_color=F5C400&bg_color=0d1117&text_color=ffffff" />
 </div>
 
 <div align="center">
