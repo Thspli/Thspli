@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5C400&height=200&section=header&text=THALISSON&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Dev%20%7C%20Builder%20em%20Formação&descAlignY=65&descAlign=50&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5C400&height=200&section=header&text=THALISSON&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Dev%20%7C%20Game%20Dev%20em%20Formação&descAlignY=65&descAlign=50&descColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=F5C400&center=true&vCenter=true&width=620&lines=Bem-vindo+ao+meu+cantinho+no+GitHub;Full+Stack+em+constante+evolução;Estudante+SENAI+Shunji+Nishimura+-+Pompeia%2FSP;Onde+a+lógica+encontra+a+criatividade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=F5C400&center=true&vCenter=true&width=620&lines=Bem-vindo+ao+meu+cantinho+no+GitHub;Full+Stack+em+constante+evolução;Estudante+SENAI+Shunji+Nishimura+-+Pompeia%2FSP;Criando+mundos+com+código+e+criatividade" alt="Typing SVG" />
 </div>
 
 ---
 
 ## ⚡ Sobre Mim — Who's this guy?
+
+<div align="center">
 
 ```
 Nome:     Thalisson Douglas
@@ -16,11 +18,27 @@ Alias:    iDev
 Escola:   SENAI Shunji Nishimura — Pompeia/SP
 Nível:    Subindo ↑
 Stack:    Full Stack (Next.js · Angular · Ionic · Node.js)
-Side:     Games com Lua/Roblox + Unity/C#
+Foco:     🎮 Game Dev com Lua/Roblox + Unity/C#
 Banco:    MySQL e dashboards
 Status:   🔥 Buildando coisas
 Mood:     "Cada bug é só um puzzle por resolver."
 ```
+
+</div>
+
+---
+
+## 🎮 Game Dev é meu foco principal
+
+<div align="center">
+
+> *Além do Full Stack, meu grande objetivo é criar jogos — seja no Roblox com Lua ou em projetos Unity com C#.*
+> *Código limpo de dia, level design de noite.*
+
+<img src="https://img.shields.io/badge/🎯_OBJETIVO-Desenvolver%20Jogos-F5C400?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🕹️_PLATAFORMAS-Roblox%20%2B%20Unity-000000?style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -42,7 +60,7 @@ Mood:     "Cada bug é só um puzzle por resolver."
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-### 🎮 Game Dev (em progresso)
+### 🎮 Game Dev
 <div align="center">
   <img src="https://img.shields.io/badge/Lua-00A2FF?style=for-the-badge&logo=luau&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -87,13 +105,13 @@ Mood:     "Cada bug é só um puzzle por resolver."
 
 <div align="center">
   <a href="https://github.com/xToguia">
-    <img src="https://github-readme-stats.vercel.app/api?username=xToguia&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" height="120em"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=xToguia&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" height="130em"/>
   </a>
   <a href="https://github.com/rafinha20010">
-    <img src="https://github-readme-stats.vercel.app/api?username=rafinha20010&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" height="120em"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=rafinha20010&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" height="130em"/>
   </a>
   <a href="https://github.com/Leo-march">
-    <img src="https://github-readme-stats.vercel.app/api?username=Leo-march&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" height="120em"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Leo-march&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" height="130em"/>
   </a>
 </div>
 
@@ -124,11 +142,15 @@ Mood:     "Cada bug é só um puzzle por resolver."
 
 ---
 
+<div align="center">
+
 ```
-  ⚡          💡          ⚡          💡          ⚡
-       "O código que você escreve hoje é o sistema de amanhã."
-  💡          ⚡          💡          ⚡          💡
+  ⚡          🎮          ⚡          🎮          ⚡
+       "O código que você escreve hoje é o jogo de amanhã."
+  🎮          ⚡          🎮          ⚡          🎮
 ```
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F5C400&height=120&section=footer&animation=fadeIn" />
