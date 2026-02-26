@@ -92,16 +92,6 @@ Cada linha de código me aproxima do jogo que um dia vou lançar.
   <img src="https://streak-stats.demolab.com/?user=Thspli&theme=dark&hide_border=true&stroke=F5C400&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&background=0d1117&sideLabels=ffffff&dates=888888" />
 </div>
 
----
-
-## 💬 Citação do Dia
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=F5C400&author_color=F5C400&bg_color=0d1117&border_color=F5C400" />
-</div>
-
----
-
 ## 📈 Atividade
 
 <div align="center">
