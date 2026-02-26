@@ -105,13 +105,21 @@ Mood:     "Cada bug é só um puzzle por resolver."
 
 <div align="center">
   <a href="https://github.com/xToguia">
-    <img src="https://github-readme-stats.vercel.app/api?username=xToguia&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" height="130em"/>
+    <img src="https://github.com/xToguia.png" width="80" style="border-radius:50%" />
+    <br/>
+    <img src="https://img.shields.io/badge/xToguia-F5C400?style=for-the-badge&logo=github&logoColor=black" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/rafinha20010">
-    <img src="https://github-readme-stats.vercel.app/api?username=rafinha20010&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" height="130em"/>
+    <img src="https://github.com/rafinha20010.png" width="80" style="border-radius:50%" />
+    <br/>
+    <img src="https://img.shields.io/badge/rafinha20010-F5C400?style=for-the-badge&logo=github&logoColor=black" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Leo-march">
-    <img src="https://github-readme-stats.vercel.app/api?username=Leo-march&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" height="130em"/>
+    <img src="https://github.com/Leo-march.png" width="80" style="border-radius:50%" />
+    <br/>
+    <img src="https://img.shields.io/badge/Leo--march-F5C400?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </div>
 
