@@ -16,7 +16,7 @@ Alias:    iDev
 Escola:   SENAI Shunji Nishimura — Pompeia/SP
 Nível:    Subindo ↑
 Stack:    Full Stack (Next.js · Angular · Ionic · Node.js)
-Foco:     🎮 Game Dev com Lua/Roblox + Unity/C#
+Foco:     🎮 Game Dev com Unity/C#
 Banco:    MySQL e dashboards
 Status:   🔥 Buildando coisas
 Mood:     "Cada bug é só um puzzle por resolver."
@@ -27,13 +27,13 @@ Mood:     "Cada bug é só um puzzle por resolver."
 ## 🎮 Game Dev — Onde minha paixão mora
 
 Programar é meu ofício, mas **criar jogos é meu objetivo de vida.**
-Durante o dia construo sistemas Full Stack — à noite projeto mecânicas, escrevo scripts em Lua no Roblox Studio e estudo C# pra Unity.
+Durante o dia construo sistemas Full Stack — à noite projeto mecânicas e estudo C# pra Unity.
 Cada linha de código me aproxima do jogo que um dia vou lançar.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Roblox_Studio-scripting%20com%20Lua-00D2FF?style=for-the-badge&logo=roblox&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-jogos%20com%20C%23-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-em%20construção%20🔨-F5C400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-linguagem%20principal-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-em%20construção-F5C400?style=for-the-badge" />
 </div>
 
 ---
@@ -58,9 +58,7 @@ Cada linha de código me aproxima do jogo que um dia vou lançar.
 
 ### 🎮 Game Dev
 <div align="center">
-  <img src="https://img.shields.io/badge/Lua-00A2FF?style=for-the-badge&logo=luau&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox_Studio-00D2FF?style=for-the-badge&logo=roblox&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
 
@@ -79,12 +77,12 @@ Cada linha de código me aproxima do jogo que um dia vou lançar.
 ## 📊 Stats — Números não mentem
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thspli&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thspli&layout=compact&theme=dark&hide_border=true&title_color=F5C400&bg_color=0d1117&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thspli&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&bg_color=0d1117&text_color=ffffff&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thspli&layout=compact&theme=dark&hide_border=true&title_color=F5C400&bg_color=0d1117&text_color=ffffff&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thspli&theme=dark&hide_border=true&stroke=F5C400&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&background=0d1117&sideLabels=ffffff&dates=888888" />
+  <img src="https://streak-stats.demolab.com/?user=Thspli&theme=dark&hide_border=true&stroke=F5C400&ring=F5C400&fire=F5C400&currStreakLabel=F5C400&background=0d1117&sideLabels=ffffff&dates=888888" />
 </div>
 
 ---
@@ -106,7 +104,7 @@ Cada linha de código me aproxima do jogo que um dia vou lançar.
   <a href="https://github.com/rafinha20010">
     <img src="https://img.shields.io/badge/rafinha20010-F5C400?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <a href="https://github.com/Leo--march">
+  <a href="https://github.com/Leo-march">
     <img src="https://img.shields.io/badge/Leo--march-F5C400?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </div>
